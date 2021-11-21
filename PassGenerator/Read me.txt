@@ -1,0 +1,7 @@
+hi
+passGenerator.py is a small project in python
+if run passGenerator.py in terminal with python3 passGenerator.py
+you see program  want you to type the lengh of password you want and ask to add numbers or !@#.. to password
+
+
+Enjoy..!
