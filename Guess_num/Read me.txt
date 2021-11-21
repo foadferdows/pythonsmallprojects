@@ -1,0 +1,6 @@
+hi dear
+Guess_num.py is a small project in python
+if run Guess_num.py in terminal with python3 Guess_num.py
+you see program try to explan the roll of game and try to guess number
+
+Enjoy..!
