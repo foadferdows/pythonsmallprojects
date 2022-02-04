@@ -1,0 +1,2 @@
+for know about game of life please read https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+i try to write it in py

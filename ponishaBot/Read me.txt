@@ -1,0 +1,29 @@
+Hi..!
+my name is Foad Ferdows
+
+in ponisha Bot we Extraction the data from ponisha.ir and try to find ,
+an avarage cost for simple project with users skills
+
+in this prioject , we have 4 file :
+    1. ReadMe.txt (this file)
+    2. read.py
+    3. data.txt
+    4. product.py
+
+1. ReadMe.txt :
+    in this file i try to explane what i do. :)
+
+2. read.py :
+    in this program we Extraction the data of project from ponisha.ir
+    and pick up our intrested part of each and save that in data.txt
+
+3. data.txt :
+    this file is empty in the first but after run read.py you can see the data from each project write in intrested
+    to use after in product
+
+4. product.py :
+    in this program we read data from data.txt and with machine learning ( a litle  machine learning used in this program )
+    making a model of them , in the end we try to find an avarage cost for simple project with users skills
+
+
+GoodBye..! 
